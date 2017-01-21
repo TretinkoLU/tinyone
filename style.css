@@ -1,0 +1,59 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.main-section{
+	height: 100vh;
+	background-color: #F0E68C;
+}
+
+.icon{
+	display: inline-block;
+	font-size: 20px;
+	margin-top: 20px;
+}
+
+.big-icon{
+	display: inline-block;
+	font-size: 40px;
+	margin-top: 20px;
+}
+
+.text{
+	font-size: 40px;
+}
+
+.main-text{
+	margin-top: 100px;
+	color: #708090;
+}
+
+.main-description{
+	color: #708090;
+}
+
+.btn-custom{
+	width: 130px;
+	background-color: transparent;
+	color: #708090;
+}
+
+.features{
+	height: 100vh;
+}
+
+.features-text{
+	margin-top: 90px;
+	font-family: arial;
+	font-weight: bold;
+}
+
+.feature-row{
+	margin: 3% 15%;
+}
+
+.features-icon{
+	font-size: 60px;
+}
+
